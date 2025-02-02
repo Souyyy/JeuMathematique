@@ -10,7 +10,7 @@
 Ce projet est une application mobile développée en React Native qui propose un jeu de calcul mental avec deux modes de jeu : Facile et Difficile. En mode facile, vous devez résoudre une addition entre deux nombres en 30 secondes, tandis que le mode difficile vous met au défi d'additionner trois nombres en 15 secondes. 
 
 ## Fonctionnalités du jeu
-- Mode Facile : Vous devez résoudre une addition simple entre deux nombres en 5 secondes.
+- Mode Facile : Vous devez résoudre une addition simple entre deux nombres en 30 secondes.
 - Mode Difficile : Vous devez résoudre une addition entre trois nombres en 15 secondes.
   
 ## Prérequis
