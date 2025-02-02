@@ -55,9 +55,7 @@ Démarrez le serveur de développement :
 
 ### 5. Accéder à l'application
 
-Ouvrez votre navigateur web et rendez-vous à l'adresse :
-
-```http://localhost:3000/```
+Ouvrez votre navigateur web et rendez-vous à l'adresse de votre projet
 
 ## Technologies
 Ce projet utilise plusieurs technologies modernes pour créer une expérience 3D interactive:
